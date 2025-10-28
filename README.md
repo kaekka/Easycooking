@@ -1,4 +1,4 @@
-# project2
+# Easycoo-king
 
 A new Flutter project.
 
